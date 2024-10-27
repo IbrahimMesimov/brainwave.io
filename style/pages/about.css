@@ -1,0 +1,18 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: space-between;
+}
+
+
+.logo{
+
+font-family: Rubik;
+font-size: 28px;
+font-weight: 700;
+line-height: 33.18px;
+letter-spacing: -0.15555556118488312px;
+text-align: left;
+
+}
