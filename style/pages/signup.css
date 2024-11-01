@@ -1,0 +1,160 @@
+.container {
+  width: 1600px;
+  margin: 0 auto;
+}
+/* input-section-start*/
+.input-nav {
+  text-align: center;
+}
+.input-nav-title {
+  font-family: rubik;
+  font-weight: 700;
+  font-size: 24px;
+  color: #161c2d;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+.input-form {
+  width: 350px;
+  height: 545px;
+  border-radius: 8px;
+  background-color: #fff;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+  top: (calc(50%-100px));
+  padding-top: 21px;
+  padding-bottom: 30px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.form-section {
+  padding-top: 125px;
+  width: 1600px;
+  background-color: #f4f7fa;
+}
+.about-form {
+  text-align: center;
+}
+
+.text {
+  font-family: "roboto", serif;
+  font-weight: 700;
+  font-size: 15px;
+  color: #161c2d;
+  padding-top: 21px;
+  padding-bottom: 7px;
+}
+.form-title {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 60px;
+  margin-bottom: 34px;
+}
+.form-text {
+  font-family: "roboto";
+  font-weight: 400px;
+  font-size: 19px;
+  opacity: 65%;
+  color: #161c2d;
+  margin-bottom: 55px;
+}
+
+.input {
+  width: 300px;
+  height: 50px;
+  border: 1px solid;
+  border-color: #e7e9ed;
+  border-radius: 8px;
+}
+.button-link {
+  margin-top: 77px;
+}
+.button {
+  font-family: roboto;
+  font-weight: 700;
+  color: #fff;
+  width: 300px;
+  height: 59px;
+  background-color: #473bf0;
+  font-size: 17px;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 14px 80px;
+}
+
+.question-form {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 137px;
+}
+.account-text {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 17px;
+  margin-top: 46px;
+}
+.Sign-in {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 17px;
+  margin-top: 46px;
+}
+/* input-section-end*/
+
+/* Footer-section-start*/
+.footer-section {
+  display: flex;
+  background-color: #161c2d;
+  padding-bottom: 128px;
+}
+.footer-logo {
+  margin-left: 245px;
+}
+.footer-title {
+  font-family: rubik;
+  font-weight: 700;
+  font-size: 28px;
+  margin-top: 122px;
+  margin-bottom: 36px;
+  color: #fff;
+}
+.footer-text {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 26px;
+  opacity: 65%;
+  margin-bottom: 62px;
+  color: #fff;
+}
+.footer-icon {
+  display: flex;
+  gap: 24px;
+}
+.footer-nav {
+  display: flex;
+  gap: 80px;
+  margin-top: 122px;
+  margin-left: 101px;
+}
+.list-title {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 15px;
+  opacity: 65%;
+  margin-bottom: 40px;
+  color: #fff;
+}
+.footer-list li {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+.footer-name {
+  color: #fff;
+}
+/* Footer-section-end*/
